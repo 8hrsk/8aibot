@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "8aibot",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
