@@ -20,3 +20,5 @@ After that you can start bot with `npm start` or `node bot.js`
 
 To get CHAI_ID you have to go to chat with any character, open devtools and in cookies find this: ![image](https://github.com/8hrsk/8aibot/assets/125183117/62913390-16a0-493c-9748-2dd5c7a8260e)
 Text after Token is your ID
+
+Also you can run bot with pm2 on server <3
