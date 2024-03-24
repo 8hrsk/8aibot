@@ -1,4 +1,4 @@
-###Get started
+#Get started
 
 Create a `.env` file with 
 ```env
